@@ -1,0 +1,13 @@
+/* ==reset== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* ==general class== */
+/* ==content== */
+/* block #1 */
+h1 {
+  font-size: 6rem;
+  text-align: center;
+}
